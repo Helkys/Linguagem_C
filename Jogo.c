@@ -283,11 +283,5 @@ void main(){
             break;
         }//informa se o game deu empate
     }
-
-
-
-
-
-
     SetConsoleOutputCP(CPAGE_DEFAULT);
 }
